@@ -1,0 +1,5 @@
+Sör{ nev=Sor2, fok=5.0%, cimke=HAGYOMANYOS, uuid=2b412213-2c0b-4286-a1c9-98dcbca40e0c, malata=59}
+Sör{ nev=Sor1, fok=10.0%, cimke=HAGYOMANYOS, uuid=e0c7ae65-4e40-49c9-ae72-354b33120d83, malata=60}
+Bor{ nev=Bor1, fok=15.0%, cimke=REGI, cukor=édes}
+Bor{ nev=Bor2, fok=15.0%, cimke=REGI, cukor=száraz}
+Bor{ nev=Bor3, fok=15.0%, cimke=REGI, cukor=édes}
